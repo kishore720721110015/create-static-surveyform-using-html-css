@@ -1,0 +1,59 @@
+#fn{
+    width: 210px;
+}
+#ln{
+    margin-left: 10px;
+    width: 210px;
+}
+#email{
+    width:440px;
+}
+.fn{
+    padding-right: 150px;
+}
+
+input{
+    background-color: rgb(222, 222, 232);
+    border-color: gainsboro;
+    border-radius: 5px;
+    height: 25px;
+}
+img{
+    padding-left: 130px;
+    width: 150px;
+    height: 150px;
+}
+.checkbox{
+    margin-top: 20px;
+    height: 20px;
+    width: 20px;
+}
+.col2{
+    padding-left: 50px;
+}
+#warm{
+    margin-left:80px;
+}
+#check3{
+    margin-left: 130px;
+}
+.checked {
+    color: rgb(230, 190, 114);
+}
+.box{
+    margin: 0% auto;
+    border: 1px solid black;
+    padding-left: 35%;
+    padding-bottom: 90px;
+    background-color: rgb(75, 90, 106);
+}
+#submit{
+    padding-left: 10px;
+    width: 45%;
+    height: 50px;
+    color: white;
+    background-color: orange;
+}
+.bo{
+    padding-top: 20px;
+}
